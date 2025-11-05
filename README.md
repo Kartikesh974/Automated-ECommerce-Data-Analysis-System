@@ -1,4 +1,4 @@
-# Automated-ECommerce-Data-Analysis-System
+# Automated-ECommerce-System
 
 ## Data Source 
 https://www.kaggle.com/carrie1/ecommerce-data
