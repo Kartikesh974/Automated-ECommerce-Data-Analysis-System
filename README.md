@@ -4,7 +4,7 @@
 https://www.kaggle.com/carrie1/ecommerce-data
 
 ## Context of Data 
-- Company - registered non-store online retail
+- Company - UK-based and registered non-store online retail
 - Products for selling - Mainly all-occasion gifts
 - Customers - Most are wholesalers (local or international)
 - Transactions Period - 1st Dec 2021 - 9th Dec 2022 (One year)
