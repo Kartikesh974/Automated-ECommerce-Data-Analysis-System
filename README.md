@@ -4,10 +4,10 @@
 https://www.kaggle.com/carrie1/ecommerce-data
 
 ## Context of Data 
-- Company - UK-based and registered non-store online retail
+- Company - registered non-store online retail
 - Products for selling - Mainly all-occasion gifts
 - Customers - Most are wholesalers (local or international)
-- Transactions Period - 1st Dec 2010 - 9th Dec 2011 (One year)
+- Transactions Period - 1st Dec 2021 - 9th Dec 2022 (One year)
 
 ## Objectives
 
@@ -30,7 +30,7 @@ Exploratory Data Analysis (EDA) is performed on the E-Commerce data obtained fro
 	- France
 5. **November 2011 has the highest sales** 
 	- The month with the lowest sales is undetermined as the dataset consists of transactions until 9th December 2011 in December 
-6. There are **no transactions on Saturday** between 1st Dec 2010 - 9th Dec 2011 
+6. There are **no transactions on Saturday** between 1st Dec 2021 - 9th Dec 2022 
 7. The number of orders received by the company tends to increases from Monday to Thursday and decrese afterward
 8. The company receives the **highest number of orders at 12:00pm** 
 	- Possibly most customers made purchases during **lunch hour between 12:00pm - 2:00pm**
