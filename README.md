@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) on E-Commerce data 
+# Automated-ECommerce-Data-Analysis-System
 
 ## Data Source 
 https://www.kaggle.com/carrie1/ecommerce-data
